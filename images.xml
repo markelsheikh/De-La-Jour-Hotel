@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<images>
+    <imageOne>
+        <image>http://i2.cdn.turner.com/cnnnext/dam/assets/140320132342-hotel-indoor-pools-altira-horizontal-large-gallery.jpg</image>
+        <description>The Marina pool is one of the De La Jours finest work of art that overlooks the beautiful city of New York.</description>
+    </imageOne>
+    <imageTwo>
+        <image>http://www.heritageinn.net/CMSuploads/page_images/Hotels_Pincher_Creek_With_Indoor_Pool_and_Hot_Tub_For_Kids_main.jpg</image>
+        <description>The blue and purple palettes with neutral woven mesh gives the Hard Rock pool a modern, yet beachy feel.</description>
+    </imageTwo>
+    <imageThree>
+        <image>http://simplon.zaccherahotels.com/files/2012/07/2082_Dino_Piscina_Cop_6108V_960x413.jpeg</image>
+        <description>The Romana pool is a lushly landscaped urban oasis with the Inner Harbor as its backdrop. It's an exotic piece of artwork that you can swim in!</description>
+    </imageThree>
+    <imageFour>
+        <image>http://www3.hilton.com/resources/media/hi/SYXHIHI/en_US/img/shared/full_page_image_gallery/main/hi_pool01_5_675x359_FitToBoxSmallDimension_Center.jpg</image>
+        <description>Complete with personalized host service, GO Pool has 38 luxurious cabanas and daybeds!</description>
+    </imageFour>
+    <imageFive>
+        <image>http://i.huffpost.com/gen/1221874/images/o-BEST-HOTEL-POOLS-LA-facebook.jpg</image>
+        <description>Enhance your pool leisure with our amenity-rich cabanas and pool bars which provide a wonderful space to cool off and relax with your party at the Venetian pool.</description>
+    </imageFive>
+    <imageSix>
+        <image>http://www.gayot.com/blog/wp-content/uploads/2013/02/jw-marriott-marquis-dubai-outdoor-pool.jpg</image>
+        <description>De La Jour has created the Luxor pool, an oasis just for you featuring four large sections of pool area totaling 19,000 square feet. The pool deck at Luxor is one of the largest in the De La Jour.</description>
+    </imageSix>
+    <imageSeven>
+        <image>http://www.fourseasons.com/content/dam/fourseasons/images/web/LON/LON_697_aspect16x9.jpg/jcr:content/renditions/cq5dam.web.637.358.jpeg</image>
+        <description>Computers, copying, facsimile, and other business services are available 24 hours a day through our full-service De La Jour hotel Business Center located on the 2nd Floor.</description>
+    </imageSeven>
+    <imageEight>
+        <image>http://www.fnetravel.com/english/shanghaihotels/parkyardhotel/parkyard-hotel-business-center.jpg</image>
+        <description>The business centre offers a comprehensive range of services, which include secretarial, translation and courier services, computer workstations in addition to other functions that allow you to work productively. The hotel’s business centre ensures that the travelling executive is efficiently supported while away from home.</description>
+    </imageEight>
+    <imageNine>
+        <image>http://hongkong.rosedalehotels.com/attached/image/20140326/20140326031020_50547.jpg</image>
+        <description>Stay productive and in contact with colleagues when you travel for business to De La Jour. Our full-service FedEx Business Center features executive amenities and equipment to get the job done any time of day. The professional staff at De La Jour are more than happy to assist you with all your business requirements.</description>
+    </imageNine>
+</images> 
